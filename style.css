@@ -17,6 +17,8 @@ body {
     margin: auto;
 }
 
+
+/* Header */
 header {
     padding: 0.5rem 8rem;
     display: flex;
@@ -77,8 +79,8 @@ main {
     padding: 4rem 8rem;
 }
 
-/* Welcome section */
 
+/* Welcome section */
 .welcome {
     display: flex;
     justify-content: space-between;
@@ -240,6 +242,7 @@ main {
     var(--dark-grey) 2px 0px 0px 2px inset;
     transform: scale(95%);
 }
+
 
 /* Footer */
 footer {
